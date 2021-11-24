@@ -141,7 +141,7 @@ const SelectCharacter = ({ setCharacterNFT }) => {
           <p>Minting In Progress...</p>
         </div>
         <img
-          src="https://media2.giphy.com/media/61tYloUgq1eOk/giphy.gif?cid=ecf05e47dg95zbpabxhmhaksvoy8h526f96k4em0ndvx078s&rid=giphy.gif&ct=g"
+          src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/28685211/17ec25d3979f027e63447454c4856f9e863fcc9e.png"
           alt="Minting loading indicator"
         />
       </div>
